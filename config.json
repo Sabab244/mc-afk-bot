@@ -2,6 +2,7 @@
     "ip": "chutiasmp.falix.gg",
     "port": "25565",
     "name": "staff",
+    "version": "1.21",
     "auto-reconnect": true,
     "comment": "If True Then Bot Will Skip Night",
     "login-enabled": true,
