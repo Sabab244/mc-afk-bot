@@ -1,0 +1,11 @@
+{
+    "ip": "chutiasmp.falix.gg",
+    "port": "25565",
+    "name": "staff",
+    "auto-reconnect": true,
+    "comment": "If True Then Bot Will Skip Night",
+    "login-enabled": true,
+    "comment": "If True Then Bot Will Login/Register",
+    "register-cmd": "/register {bot123} {bot123}",
+    "login-cmd": "/login {bot123}"
+   }
